@@ -1,5 +1,6 @@
 guru4ui/MyApp:
   build: 
+  - npm install
   - ng build
   
   PkgInclude:
