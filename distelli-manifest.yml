@@ -1,4 +1,7 @@
 guru4ui/MyApp:
+  Buld: 
+  - ng build
+  
   PkgInclude:
     - dist/*
         
