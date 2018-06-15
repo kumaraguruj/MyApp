@@ -1,5 +1,5 @@
 guru4ui/MyApp:
-  Build: 
+  build: 
   - ng build
   
   PkgInclude:
