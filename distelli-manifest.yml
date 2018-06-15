@@ -1,7 +1,7 @@
 guru4ui/MyApp:
-  Build: 
-  - npm install
-  - ng build
+  #Build: 
+  #- npm install
+  #- ng build
   
   PkgInclude:
     - dist/*
